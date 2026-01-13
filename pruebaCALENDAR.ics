@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Extravagant Worship Kakheti//2026 Gatherings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:20260124-kakheti@extravagant.org
+DTSTAMP:20260101T080000Z
+DTSTART:20260124T100000Z
+DTEND:20260124T170000Z
+SUMMARY:Gathering of Extravagant Worship and Prayer in Kakheti – თაყვანისცემის და ლოცვის შეხვედრა კახეთში
+DESCRIPTION:Gathering of Extravagant Worship and Prayer – თაყვანისცემის და ლოცვის შეხვედრა
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260328-kakheti@extravagant.org
+DTSTAMP:20260101T080000Z
+DTSTART:20260328T100000Z
+DTEND:20260328T170000Z
+SUMMARY:Gathering of Extravagant Worship and Prayer – თაყვანისცემის და ლოცვის შეხვედრა
+DESCRIPTION:This gathering will take place one day before Palm Sunday – ეს შეკრება გაიმართება ბაირამობის წინა დღეს
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260523-kakheti@extravagant.org
+DTSTAMP:20260101T080000Z
+DTSTART:20260523T100000Z
+DTEND:20260523T170000Z
+SUMMARY:Gathering of Extravagant Worship and Prayer – თაყვანისცემის და ლოცვის შეხვედრა
+DESCRIPTION:This gathering will take place on Pentecost Eve – ეს შეკრება გაიმართება სულთმოფენობის წინა საღამოს
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260724-kakheti@extravagant.org
+DTSTAMP:20260101T080000Z
+DTSTART:20260724T100000Z
+DTEND:20260724T170000Z
+SUMMARY:Gathering of Extravagant Worship and Prayer – თაყვანისცემის და ლოცვის შეხვედრა
+DESCRIPTION:Worship and prayer gathering – თაყვანისცემის და ლოცვის შეხვედრა
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260926-kakheti@extravagant.org
+DTSTAMP:20260101T080000Z
+DTSTART:20260926T100000Z
+DTEND:20260926T170000Z
+SUMMARY:Gathering of Extravagant Worship and Prayer – თაყვანისცემის და ლოცვის შეხვედრა
+DESCRIPTION:This gathering takes place during Sukkot (Festival of Booths) – ეს შეკრება ტარდება კარვების დღესასწაულის (სუქოთის) დროს
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261121-kakheti@extravagant.org
+DTSTAMP:20260101T080000Z
+DTSTART:20261121T100000Z
+DTEND:20261121T170000Z
+SUMMARY:Gathering of Extravagant Worship and Prayer – თაყვანისცემის და ლოცვის შეხვედრა
+DESCRIPTION:This gathering takes place two days before Giorgoba (St. George’s Day) – ეს შეკრება ტარდება გიორგობის (წმინდა გიორგის დღის) ორი დღით ადრე
+END:VEVENT
+
+END:VCALENDAR
