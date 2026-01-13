@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Prayer for the Caucasus//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prayer for the Caucasus
+X-WR-TIMEZONE:Asia/Tbilisi
+
+BEGIN:VEVENT
+UID:night-of-power-20260315@caucasus-prayer.org
+DTSTAMP:20260113T000000Z
+DTSTART;TZID=Asia/Tbilisi:20260315T170000
+DTEND;TZID=Asia/Tbilisi:20260315T190000
+SUMMARY:ლოცვის და თაყვანისცემის დრო / Prayer and worship time
+DESCRIPTION:It will happen in the window of the night of prayer during Ramadan/ეს მოხდება ლოცვის ღამის ფანჯარაში\, რამადანის პერიოდში.
+LOCATION:To be decided
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:orthodox-passover-20260401@caucasus-prayer.org
+DTSTAMP:20260113T000000Z
+DTSTART;TZID=Asia/Tbilisi:20260401T170000
+DTEND;TZID=Asia/Tbilisi:20260401T190000
+SUMMARY:ლოცვის და თაყვანისცემის დრო / Prayer and worship time
+DESCRIPTION:This will be the first day of the Hebrew Passover/ ეს იქნება ებრაული პასექის პირველი დღე
+LOCATION:To be decided
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:prayer-week-20260906@caucasus-prayer.org
+DTSTAMP:20260113T000000Z
+DTSTART;TZID=Asia/Tbilisi:20260906T170000
+DTEND;TZID=Asia/Tbilisi:20260912T180000
+SUMMARY:ლოცვის კვირეული / Prayer Week
+DESCRIPTION:Week of focused intercession for the Caucasus. Special creative worship on Sept 11 for Rosh Hashanah.
+LOCATION:To be decided
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rosh-hashanah-special-20260911@caucasus-prayer.org
+DTSTAMP:20260113T000000Z
+DTSTART;TZID=Asia/Tbilisi:20260911T170000
+DTEND;TZID=Asia/Tbilisi:20260911T190000
+SUMMARY:Special Rosh Hashanah Prayer / განსაკუთრებული ლოცვა როშ ჰაშანაზე
+DESCRIPTION:Creative prayer and worship celebrating Rosh Hashanah (Hebrew New Year) / შემოქმედებითი ლოცვა და თაყვანისცემა ებრაული ახალი წლის აღსანიშნავად – როშ ჰაშანა.
+LOCATION:To be decided
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+
+END:VCALENDAR
